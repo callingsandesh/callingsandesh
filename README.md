@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @callingsandesh
+- 👋 Hi, I’m Sandesh
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning to analyse and predict stock market data.
 - 💞️ I’m looking to collaborate on ...
