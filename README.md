@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on any project that knocks my door.
 - 📫 contact me , email: sandeshtimalsina@gmail.com
 -                 call: +977-9861286923
+
+💼 any Data analysis work? do reach, email :)
+💬 ask me about anything, i am happy to help;
 - 
 
 <!---
