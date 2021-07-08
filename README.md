@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sandesh
+- 👋 Hi, I’m Sandesh.
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning to analyse and predict stock market data.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on sentiment analysis of comments of Reddit posts.
+- 💞️ I’m looking to collaborate on any project knocks my door.
+- 📫 How to reach me , email: sandeshtimalsina@gmail.com
+- 
 
 <!---
 callingsandesh/callingsandesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
