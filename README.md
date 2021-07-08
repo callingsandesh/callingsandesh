@@ -4,11 +4,11 @@
 - 🌱 I’m currently working on sentiment analysis of comments of Reddit posts.
 - 💞️ I’m looking to collaborate on any project that knocks my door.
 - 📫 contact me , email: sandeshtimalsina@gmail.com
--                 call: +977-9861286923
-
--💼 Any work related to data.Do reach sandeshtimalsina@gmail.com 
--💬 Ask my anything , i am happy to help.
 - 
+-                 call: +977-9861286923
+- 💼 Any work related to data.Do reach my email.
+- 💬 Ask my anything , i am happy to help.
+
 
 <!---
 callingsandesh/callingsandesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
