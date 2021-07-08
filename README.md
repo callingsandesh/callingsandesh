@@ -6,8 +6,8 @@
 - 📫 contact me , email: sandeshtimalsina@gmail.com
 -                 call: +977-9861286923
 
--💼 any Data analysis work? do reach, sandeshtimalsina@gmail.com:)
--💬 ask me about anything, i am happy to help;
+-💼 Any work related to data.Do reach sandeshtimalsina@gmail.com 
+-💬 Ask my anything , i am happy to help.
 - 
 
 <!---
