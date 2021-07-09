@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently working on sentiment analysis of comments of Reddit posts.
 - 💞️ I’m looking to collaborate on any project that knocks my door.
-- 📫 contact me , email: sandeshtimalsina@gmail.com
+- 📫 contact me , email: sandeshtimalsina14@gmail.com
 - 💼 Any work related to data.Do reach my email.
 - 💬 Ask me anything , i am happy to help.
 
