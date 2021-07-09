@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project that knocks my door.
 - 📫 contact me , email: sandeshtimalsina@gmail.com
 - 💼 Any work related to data.Do reach my email.
-- 💬 Ask my anything , i am happy to help.
+- 💬 Ask me anything , i am happy to help.
 
 
 <!---
