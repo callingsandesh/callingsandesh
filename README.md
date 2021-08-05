@@ -2,7 +2,7 @@
 - I love Mathematics and statistics. I have many github repositories related to my pathway to statistics and Probability in Python.I love to visualize the probabilities of any situation using the simulation.
 - To state my formal education i have compleated my Software Engineering.
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently working on sentiment analysis of comments of Reddit posts.
+- 🌱 
 - 💞️ I’m looking to collaborate on any project that knocks my door.
 - 📫 contact me , email: sandeshtimalsina14@gmail.com
 - 💼 Any work related to data.Do reach my email.
