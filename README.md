@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sandesh.I am a Data Science ethusiast.
-- I love Mathematics and statistics.
+- 👋 Hi, I’m Sandesh.
 - 💞️ I’m looking to collaborate on any project that knocks my door.
 - 📫 contact me , email: sandeshtimalsina14@gmail.com
 - 💼 Any work related to data.Do reach my email.
